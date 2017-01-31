@@ -3,6 +3,7 @@
  * @author Jose Stovall / GGY323
  * 
  *         Most code acquired from the textbook, as I was instructed
+*          Cause I'm a dork.
  */
 
 public class GameEntry
