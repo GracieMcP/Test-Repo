@@ -16,10 +16,6 @@ public class ScoreboardLinkedList
 	private LinkedList<GameEntry> board;
 
 	// Simple constructor; no argument for size required because LL's are dynamically sized
-	public ScoreboardLinkedList()
-	{
-		board = new LinkedList<GameEntry>();
-	}
 
 	/**
 	 * @param entry
